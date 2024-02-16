@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CampusGuide" parent="Theme.Material3.DayNight">
+         <item name="colorPrimary">#CD76BA</item>
+    </style>
+
+    <style name="NoActionBar.Theme.CampusGuide" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#CD76BA</item>
+    </style>
+
+    <style name="Theme.CampusGuide" parent="Base.Theme.CampusGuide" />
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:layout_gravity="center"
+    tools:context=".HomeActivity">
+
+    <!-- Card 1 -->
+    <ImageButton
+        android:id="@+id/mapCard"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:scaleType="center"
+        android:background="@drawable/rounded_corner"
+        android:src="@drawable/map"
+        android:contentDescription="@string/start_campus_tour_with_map"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.013" />
+
+    <!-- Card 2 -->
+    <ImageButton
+        android:id="@+id/walkeiTalkei"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="264dp"
+        android:scaleType="center"
+        android:background="@drawable/rounded_corner"
+        android:src="@drawable/phone"
+        android:contentDescription="@string/walkei_talkei_title"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mapCard"
+        app:layout_constraintVertical_bias="1.5" />
+
+    <!-- Card 3-->
+    <ImageButton
+        android:id="@+id/courseInfo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:scaleType="center"
+        android:background="@drawable/rounded_corner"
+        android:src="@drawable/book"
+        android:contentDescription="see course Information"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/walkeiTalkei"
+        app:layout_constraintVertical_bias="1" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

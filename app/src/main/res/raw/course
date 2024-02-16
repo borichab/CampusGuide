@@ -1,0 +1,103 @@
+{
+  "courses": [
+    {
+      "course_name": "Computer Science",
+      "semesters": [
+        {
+          "semester_name": "Semester 1",
+          "subjects": [
+            "Distributed Systems",
+            "Signals and Systems",
+            "IT-Security",
+            "Computer Graphics"
+          ]
+        },
+        {
+          "semester_name": "Semester 2",
+          "subjects": [
+            "Mobile Systems",
+            "Computational Intelligence",
+            "Agile Software Development"
+          ]
+        },
+        {
+          "semester_name": "Semester 3",
+          "subjects": [
+            "Web Applications",
+            "Seminar",
+            "Project"
+          ]
+        },
+        {
+          "semester_name": "Semester 4",
+          "subjects": [
+            "Master's Thesis",
+            "Master’s Colloquium"
+          ]
+        }
+      ]
+    },
+    {
+      "course_name": "Accounting and Finance",
+      "semesters": [
+        {
+          "semester_name": "Semester 1",
+          "subjects": [
+            "Behavioural Finance and Investments",
+            "Digital Transformation and Date Value",
+            "Econometrics and Financial Data Analysis",
+            "Economics and Finance of Risk and Uncertainty"
+          ]
+        },
+        {
+          "semester_name": "Semester 2",
+          "subjects": [
+            "Finance and Economics of Digital Markets",
+            "Financial Instruments",
+            "Financial Markets",
+            "International Business Taxation"
+          ]
+        },
+        {
+          "semester_name": "Semester 3",
+          "subjects": [
+            "Investment Appraisal",
+            "Management Control Systems",
+            "Sustainable Finance",
+            "Valuation and Financial Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "course_name": "Mechatronics & Robotics",
+      "semesters": [
+        {
+          "semester_name": "Semester 1",
+          "subjects": [
+            "Automation Control",
+            "Vibration Engineering",
+            "VDI 2206 - Development of Mechatronic Systems",
+            "Sensor Systems"
+          ]
+        },
+        {
+          "semester_name": "Semester 2",
+          "subjects": [
+            "System Theory",
+            "Design of Robot Workplaces",
+            "Communication Systems",
+            "Robotic Vision"
+          ]
+        },
+        {
+          "semester_name": "Semester 3",
+          "subjects": [
+            "Master Thesis",
+            "Kolloquium"
+          ]
+        }
+      ]
+    }
+  ]
+}

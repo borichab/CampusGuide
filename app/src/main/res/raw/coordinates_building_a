@@ -1,0 +1,12 @@
+{
+  "title" : "Haus A",
+  "description" : "Studies Advisory, Central Examination Office, International Office, Student Administration Office, PR-Office, University Sports,Thoska Office, Career-Service",
+  "coordinates": [
+    {"lat": 50.7169988926422,"lng": 10.463957557020784},
+    {"lat": 50.71712272464785,"lng": 10.463796783047627},
+    {"lat": 50.71719356060566,"lng": 10.463631036683546},
+    {"lat": 50.71710665890071,"lng": 10.46353411289456},
+    {"lat": 50.71703788012738,"lng": 10.46370309206307},
+    {"lat": 50.71693030534816,"lng": 10.463831026667686}
+  ]
+}

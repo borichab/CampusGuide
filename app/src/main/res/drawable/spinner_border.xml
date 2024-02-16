@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background -->
+    <item android:drawable="@android:drawable/btn_dropdown" />
+    <!-- Border -->
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Background color -->
+            <stroke
+                android:width="2dp"
+                android:color="#171414" />
+            <corners android:radius="5dp" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,10 @@
+{
+  "title" : "Haus K",
+  "description" : "Presidential Board,Research and Transfer, Commissioner for Diversity Affairs",
+  "coordinates": [
+    {"lat": 50.717519765289836, "lng": 10.463474054916578},
+    {"lat": 50.71753844576223, "lng":  10.463438515647011},
+    {"lat": 50.71758684513335, "lng":  10.463498865350049},
+    {"lat": 50.71756858923608,  "lng": 10.463533063515108}
+  ]
+}
