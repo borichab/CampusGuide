@@ -3,7 +3,6 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Screenshots](#screenshots)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributors](#contributors)
@@ -67,8 +66,8 @@ The host retains control over the discovery process even when multiple clients a
 
 ### Course Information Page
 
-<img src="https://github.com/user-attachments/assets/76385e52-0c72-4296-83b3-d7f00c1f1034" alt="Selecting course" width="300" />
 <img src="https://github.com/user-attachments/assets/bcfe84f3-27e0-45d0-a4b9-4fc2ab111ab3" alt="Selecting smester" width="300" />
+<img src="https://github.com/user-attachments/assets/76385e52-0c72-4296-83b3-d7f00c1f1034" alt="Selecting course" width="300" />
 
 - **Course Selection**: Dropdown menu listing various courses.
 - **Semester-Specific Subjects**: Displays subjects taught during the selected semester.
