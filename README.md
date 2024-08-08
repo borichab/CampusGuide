@@ -19,19 +19,19 @@ The **Campus Guide** application is a versatile mobile assistant designed to cat
 
 ## Screenshots
 ### Home Page
-<img src="https://github.com/user-attachments/assets/bc2f2710-7eef-4b28-b617-01fc66817216" alt="Home Page 1" width="300"/>
-<img src="https://github.com/user-attachments/assets/365ce2f6-0b87-456f-aeb3-a44a220d248a" alt="Home Page 2" width="300"/>
-<img src="https://github.com/user-attachments/assets/ce7600e0-bf47-4840-b635-fd1110f3433c" alt="Home Page 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/bc2f2710-7eef-4b28-b617-01fc66817216" alt="Home Page 1" width="200"/>
+<img src="https://github.com/user-attachments/assets/365ce2f6-0b87-456f-aeb3-a44a220d248a" alt="Home Page 2" width="200"/>
+<img src="https://github.com/user-attachments/assets/ce7600e0-bf47-4840-b635-fd1110f3433c" alt="Home Page 1" width="200"/>
 
 - **Map Icon**: Directs users to an interactive campus map.
 - **WalkeiTalkei Icon**: Allows users to join or host a live communication session.
 - **Course Info Icon**: Provides a list of subjects organized by course name and semester.
 
 ### Map Page
-<img src="https://github.com/user-attachments/assets/9a2e0d3f-d9e5-4e6e-aba6-a1b66c9dd9db" alt="Switch to satellite view" width="225"/>
-<img src="https://github.com/user-attachments/assets/9c897faf-e15f-4e65-a8a5-38978b7bfe03" alt="Live User location" width="225"/>
-<img src="https://github.com/user-attachments/assets/87c38064-9446-4290-ab52-e22ac55b4937" alt="Map View" width="225"/>
-<img src="https://github.com/user-attachments/assets/bc399b9d-b0f9-47e1-9b73-c7ad57ed4044" alt="Building Information" width="225"/>
+<img src="https://github.com/user-attachments/assets/9a2e0d3f-d9e5-4e6e-aba6-a1b66c9dd9db" alt="Switch to satellite view" width="200"/>
+<img src="https://github.com/user-attachments/assets/9c897faf-e15f-4e65-a8a5-38978b7bfe03" alt="Live User location" width="200"/>
+<img src="https://github.com/user-attachments/assets/87c38064-9446-4290-ab52-e22ac55b4937" alt="Map View" width="200"/>
+<img src="https://github.com/user-attachments/assets/bc399b9d-b0f9-47e1-9b73-c7ad57ed4044" alt="Building Information" width="200"/>
 
 - **Initial Map View**: Overview of the campus area.
 - **Live Location**: Real-time tracking of user location.
@@ -39,9 +39,9 @@ The **Campus Guide** application is a versatile mobile assistant designed to cat
 - **Building Information Dialog**: Detailed information about selected buildings.
 
 ### WalkeiTalkei Page
-<img src="https://github.com/user-attachments/assets/8cdf416c-079f-4fbe-a0c3-f966f3f94a90" alt="Host side Interface" width="300"/>
-<img alt="Client-side Interface" src="https://github.com/user-attachments/assets/b69cb504-b4d9-4c6b-945b-c1c0e32ddf18" width="300"/>
-<img alt="Client-side Interface" src="https://github.com/user-attachments/assets/ba04e590-2d20-4d02-9e63-66be08fcb065" width="300"/>
+<img src="https://github.com/user-attachments/assets/8cdf416c-079f-4fbe-a0c3-f966f3f94a90" alt="Host side Interface" width="200"/>
+<img alt="Client-side Interface" src="https://github.com/user-attachments/assets/b69cb504-b4d9-4c6b-945b-c1c0e32ddf18" width="200"/>
+<img alt="Client-side Interface" src="https://github.com/user-attachments/assets/ba04e590-2d20-4d02-9e63-66be08fcb065" width="200"/>
 
 - **Host Interface**: Hosts can initiate and terminate the discovery process.
 - **Client View**: Clients can connect and communicate with the host.
@@ -49,9 +49,9 @@ The **Campus Guide** application is a versatile mobile assistant designed to cat
 ### Managing Connected Clients
 The host retains control over the discovery process even when multiple clients are connected. This flexibility allows the host to manage the communication session effectively.
 
-<img src="https://github.com/user-attachments/assets/5b7e0c24-3dab-4b0c-8fa5-85ad7b845a4c" alt="Client interface" width="300" />
-<img src="https://github.com/user-attachments/assets/c476b6c9-9558-429f-9e3d-c13ce6f685e7" alt="Host visible to client" width="300" />
-<img src="https://github.com/user-attachments/assets/9430b5ad-de8d-4962-89d4-929906ebac8c" alt="Host connected interface" width="300" />
+<img src="https://github.com/user-attachments/assets/5b7e0c24-3dab-4b0c-8fa5-85ad7b845a4c" alt="Client interface" width="200" />
+<img src="https://github.com/user-attachments/assets/c476b6c9-9558-429f-9e3d-c13ce6f685e7" alt="Host visible to client" width="200" />
+<img src="https://github.com/user-attachments/assets/9430b5ad-de8d-4962-89d4-929906ebac8c" alt="Host connected interface" width="200" />
 
 - **Host Managing Clients**
   - Multiple clients can be connected simultaneously.
@@ -66,8 +66,8 @@ The host retains control over the discovery process even when multiple clients a
 
 ### Course Information Page
 
-<img src="https://github.com/user-attachments/assets/bcfe84f3-27e0-45d0-a4b9-4fc2ab111ab3" alt="Selecting smester" width="300" />
-<img src="https://github.com/user-attachments/assets/76385e52-0c72-4296-83b3-d7f00c1f1034" alt="Selecting course" width="300" />
+<img src="https://github.com/user-attachments/assets/bcfe84f3-27e0-45d0-a4b9-4fc2ab111ab3" alt="Selecting smester" width="200" />
+<img src="https://github.com/user-attachments/assets/76385e52-0c72-4296-83b3-d7f00c1f1034" alt="Selecting course" width="200" />
 
 - **Course Selection**: Dropdown menu listing various courses.
 - **Semester-Specific Subjects**: Displays subjects taught during the selected semester.
