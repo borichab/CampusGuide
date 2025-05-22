@@ -10,7 +10,13 @@
 8. [References](#references)
 
 ## Introduction
-The **Campus Guide** application is a versatile mobile assistant designed to cater to the needs of students, faculty members, and visitors within a campus environment. Developed using Android, it provides a robust framework for enhancing campus navigation, facilitating interactive learning experiences, and providing easy access to course-related information.
+The **[Campus Guide](https://github.com/borichab/CampusGuide)** application is a versatile mobile assistant designed to cater to the needs of students, faculty members, and visitors within a campus environment. Developed using Android, it provides a robust framework for enhancing campus navigation, facilitating interactive learning experiences, and providing easy access to course-related information.
+
+### Tech Stack
+- **Platform**: Android (Java)
+- **APIs**: Google Maps API, Nearby Connections API
+- **Database**: Firebase
+- **Tools**: Git, Android Studio
 
 ## Features
 - **Interactive Campus Map**: Utilizes the Google Maps API to offer a dynamic map interface highlighting key campus buildings and locations.
